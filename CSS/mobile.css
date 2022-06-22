@@ -1,0 +1,11 @@
+
+@media only screen and (max-width: 768px) {
+	[class*="col-"] {
+	  width: 768px;
+	  float: left;
+	  padding: 15px;
+	}
+	li{
+        font-size: 5px;
+    }
+}
